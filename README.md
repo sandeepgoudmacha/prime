@@ -1,5 +1,5 @@
 ![Screenshot 2025-01-17 193729](https://github.com/user-attachments/assets/ae81ca62-6050-4f7e-b25d-d8e8413591bb)
-
+**Watch Video:** https://vimeo.com/1055990516
 ## Inspiration
 Healthcare accessibility remains a significant challenge worldwide, especially in remote and underserved areas. The long wait times, lack of language support, and inability to monitor health effectively inspired us to create **Prime Medic AI**. Our goal is to use technology to bridge the gap between individuals and quality healthcare services, empowering users to take control of their health from the comfort of their homes.
 
