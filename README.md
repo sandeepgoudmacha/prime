@@ -16,7 +16,7 @@ User's can show their health problems & diseases and injuries to AI Cam, that he
 - **Disease Prediction Models**: AI-powered early detection for:Liver Disease,Pneumonia,Kidney Disease,Diabetes,Stroke,Heart Disease.
 - **Fitness Data Integration**: Tracks health metrics from wearables.  
 - **Nearby Hospital Finder**: Quickly locates emergency healthcare facilities.  
-- **Yoga & Wellness Classes**: Promotes holistic well-being with guided sessions.  
+- **Yoga & Wellness Classes**: Promotes holistic well-being with guided sessions.
 -**Blogs, Expert Insights & Resources**:Stay informed with healthcare blogs, expert advice, and medical resources.
 
 ## Web
