@@ -11,9 +11,13 @@ User's can show their health problems & diseases and injuries to AI Cam, that he
 - **Multilingual Support**: A chatbot and website that function in multiple languages.  
 - **Online Medicine Orders**: Enables users to order prescriptions and over-the-counter medicines.  
 - **Doctor Consultations**: Easy appointment scheduling and virtual consultations.  
+- **Mental health assessments**: (Anxiety, Depression, Stress).
+- **Emotional Well-being & Mental Health Self-Tests**: AI-driven sentiment analysis detects the user's current mood and provides emotional well-being support.
+- **Disease Prediction Models**: AI-powered early detection for:Liver Disease,Pneumonia,Kidney Disease,Diabetes,Stroke,Heart Disease.
 - **Fitness Data Integration**: Tracks health metrics from wearables.  
 - **Nearby Hospital Finder**: Quickly locates emergency healthcare facilities.  
 - **Yoga & Wellness Classes**: Promotes holistic well-being with guided sessions.  
+-**Blogs, Expert Insights & Resources**:Stay informed with healthcare blogs, expert advice, and medical resources.
 
 ## Web
 ![Screenshot 2025-01-06 171228](https://github.com/user-attachments/assets/261f28c0-dfce-4d3f-afae-cccf6ae252e2)
