@@ -60,3 +60,8 @@ Prime Medic AI is an **end-to-end virtual health assistant** that leverages comp
 | **Cloud & Hosting** | AWS EC2, S3, Lambda, Streamlit for model visualization |
 | **Mobile App**   | React Native (cross-platform deployment) |
 
+## 🌍 Social Impact
+- Can be deployed in **rural clinics, schools, or health kiosks** to improve access.
+- Supports **elderly and non-English speaking users** through voice-based interaction.
+- Reduces **mental health stigma** by offering a private, AI-powered check-in tool.
+- Enables **early detection** and reduces the load on public hospitals through triaging.
