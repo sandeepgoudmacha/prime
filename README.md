@@ -30,5 +30,13 @@ User's can show their health problems & diseases and injuries to AI Cam, that he
 ![WhatsApp Image 2025-01-18 at 6 27 49 PM (3)](https://github.com/user-attachments/assets/39b742c9-0cc4-4941-9ced-5c190f7016bb)
 ![WhatsApp Image 2025-01-18 at 6 27 49 PM (1) (1)](https://github.com/user-attachments/assets/95a067fe-9b2c-4f78-927f-63253ae4f5dc)
 
-
+| Component        | Tech Stack / Tools |
+|------------------|--------------------|
+| **Frontend**     | ReactJS, TailwindCSS, Material UI |
+| **Backend**      | Flask + FastAPI (dual routing for API and ML services) |
+| **AI/ML Models** | TensorFlow, PyTorch, OpenCV, Scikit-learn |
+| **Databases**    | PostgreSQL (structured data), Firebase (user auth + storage) |
+| **APIs Used**    | Google Translate, Twilio, OpenWeatherMap, Geolocation, MedNLP |
+| **Cloud & Hosting** | AWS EC2, S3, Lambda, Streamlit for model visualization |
+| **Mobile App**   | React Native (cross-platform deployment) |
 
