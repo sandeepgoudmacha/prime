@@ -32,6 +32,10 @@ Prime Medic AI is an **end-to-end virtual health assistant** that leverages comp
 - Designed with **accessibility-first** UI: high contrast, voice feedback, and keyboard navigation.
 
 ### 🛒 Ecosystem Integration
+- **Voice-Based Appointment Booking**: Users can schedule appointments at nearby clinics using natural, multilingual speech—no typing required.
+- **Smart Clinic Discovery & Availability Check**: Uses Google Maps API, geolocation, and real-time database/API integration to identify clinics and fetch available slots.
+- **AI-Powered Understanding & Timezone Handling**: Leverages Whisper/DeepSpeech + BERT to comprehend user intent, manage errors gracefully, and adjust appointments for timezones.
+- **Confirmation & Notifications**: Captures patient info and sends booking confirmations and reminders via Twilio SMS, email, or in-app alerts.
 - **Medicine Ordering System**: Connects with local pharmacies or online APIs.
 - **Doctor Consultations**: Video call scheduling with nearby clinics.
 - **Wearable Sync**: Real-time syncing with fitness trackers (heart rate, steps, sleep).
