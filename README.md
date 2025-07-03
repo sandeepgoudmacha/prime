@@ -60,7 +60,7 @@ Prime Medic AI is an **end-to-end virtual health assistant** that leverages comp
 | **Backend**      | Flask + FastAPI (dual routing for API and ML services) |
 | **AI/ML Models** | TensorFlow, PyTorch, OpenCV, Scikit-learn |
 | **Databases**    | PostgreSQL (structured data), Firebase (user auth + storage) |
-| **APIs Used**    | Google Translate, Twilio, OpenWeatherMap, Geolocation, MedNLP |
+| **APIs Used**    | Google Translate, Twilio, OpenWeatherMap, Geolocation, MedNLP, Groq |
 | **Cloud & Hosting** | AWS EC2, S3, Lambda, Streamlit for model visualization |
 | **Mobile App**   | React Native (cross-platform deployment) |
 
