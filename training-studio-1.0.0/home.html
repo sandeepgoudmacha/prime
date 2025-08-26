@@ -112,6 +112,47 @@
             background-color: #218838;
         }
 
+      .ai-box {
+    background-color: #cb4c4c;
+    color: white;
+    padding: 40px 30px;
+    border-radius: 20px;
+    margin: 40px auto;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    animation: fadeInUp 1.2s ease-in-out;
+    font-family: 'Segoe UI', sans-serif;
+    max-width: 1000px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.ai-box:hover {
+    transform: scale(1.03);
+}
+
+.ai-box h1 {
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+
+.ai-box p {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
     </style>
     <script type="text/javascript">
         function googleTranslateElementInit() {
@@ -443,7 +484,16 @@
                         </table>
                     </div>
                 </div>
-                
+
+              <a href="https://primemedic-ai-ai-health-fitness-agent.onrender.com/" target="_blank" style="text-decoration: none; display: block; width: fit-content; margin: 40px auto;">
+    <div class="ai-box animated-box">
+        <h1>AI Health & Fitness Planner</h1>
+        <p style="color: #ddd;">
+            Get personalized dietary and fitness plans tailored to your goals and preferences.
+            Our AI-powered system considers your unique profile to create the perfect plan for you.
+        </p>
+    </div>
+</a>
                 
             </div>
             <article  id="tabs-4" style="display: flex; flex-direction: column; align-items: center-right; text-align: center; color: white;">
